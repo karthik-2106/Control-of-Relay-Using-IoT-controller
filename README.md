@@ -1,6 +1,8 @@
 ## Name: KARTHIKEYAN M
 ## Reg.no: 212223110020
+
 # EX 02 Control-of-Relay-Using-IoT-controller
+
 ##  AIM:
 To control the Relay using Arduino controller
 
@@ -55,6 +57,7 @@ void loop() {
 ![Screenshot 2024-09-11 030305](https://github.com/user-attachments/assets/855b03cf-37cb-4ea6-943e-969f3c68e544)
 
 ## OUTPUT:
+
 ## OFF
 ![Screenshot 2024-09-11 030156](https://github.com/user-attachments/assets/f9079fab-8a5f-4f8f-8e93-ac2a3df6a36a)
 ## ON
